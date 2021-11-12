@@ -34,9 +34,18 @@ This repository contains the working solution of the problem statement asked. A 
 * A sample database is created as per the schema given in the problem statement docs.
 * Then the nesessary python modules are imported for connecting MySQL and Python.
 * A python script is implemeted in place to connect with the Database.
-* The data is reterived and python module - pandas dataframe is used for table manipulation.
+* The data is reterived and python module - pandas dataframe is used for table manipulation.![Screenshot (161)](https://user-images.githubusercontent.com/43396684/141467507-14c1bc61-a245-4eba-969a-d917972c174e.png)
+
 
 ## Sample 
-![Screenshot (158)](https://user-images.githubusercontent.com/43396684/141463886-1f610286-ad24-47ac-974b-eed221654490.png)
+
+![Screenshot (161)](https://user-images.githubusercontent.com/43396684/141467620-eeb3b10d-5e06-4d4b-86ed-566f9c1a42b8.png)
+
+
+![Screenshot (162)](https://user-images.githubusercontent.com/43396684/141467534-38efac10-12b5-4de7-a059-e4e000a1998f.png)
+
+
+
+![Screenshot (160)](https://user-images.githubusercontent.com/43396684/141467556-56f9fe00-acfb-495f-9c76-9beb6b9beea4.png)
 
 
