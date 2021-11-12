@@ -37,14 +37,18 @@ This repository contains the working solution of the problem statement asked. A 
 ![Sql Workbench](https://user-images.githubusercontent.com/43396684/141467620-eeb3b10d-5e06-4d4b-86ed-566f9c1a42b8.png)
 
 * Then the nesessary python modules(mysql-connector, pandas, setuptools(optional) are installed and then imported.(In my case setuptools was missing so that module is optional)
-![Screenshot (166)](https://user-images.githubusercontent.com/43396684/141469735-0e5e8029-3372-4341-88d1-3f966c10d2be.png)
+![Download Modules](https://user-images.githubusercontent.com/43396684/141469735-0e5e8029-3372-4341-88d1-3f966c10d2be.png)
 
 
 * A python script is implemeted in place to connect with the Database.
-![Screenshot (164)](https://user-images.githubusercontent.com/43396684/141469480-e2e26386-7d7c-4209-bf05-77054540f221.png)
+![Connector](https://user-images.githubusercontent.com/43396684/141469480-e2e26386-7d7c-4209-bf05-77054540f221.png)
 
 
-* The data is reterived and python module - pandas dataframe is used for table manipulation.
+* The data is reterived using pandas dataframe.
+![Extract data](https://user-images.githubusercontent.com/43396684/141470218-33edf313-384b-4a30-8c87-a77d0218cbca.png)
+
+
+
 ![Python Code](https://user-images.githubusercontent.com/43396684/141468301-fdfb1e3b-0b67-4ecb-a960-45ecded6bfb1.png)
 
 
