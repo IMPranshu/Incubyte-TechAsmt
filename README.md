@@ -36,7 +36,9 @@ This repository contains the working solution of the problem statement asked. A 
 * A sample database is created as per the schema given in the problem statement docs.
 ![Sql Workbench](https://user-images.githubusercontent.com/43396684/141467620-eeb3b10d-5e06-4d4b-86ed-566f9c1a42b8.png)
 
-* Then the nesessary python modules are imported for connecting MySQL and Python.
+* Then the nesessary python modules(mysql-connector, pandas, setuptools(optional) are installed and then imported.(In my case setuptools was missing so that module is optional)
+![Screenshot (166)](https://user-images.githubusercontent.com/43396684/141469735-0e5e8029-3372-4341-88d1-3f966c10d2be.png)
+
 
 * A python script is implemeted in place to connect with the Database.
 ![Screenshot (164)](https://user-images.githubusercontent.com/43396684/141469480-e2e26386-7d7c-4209-bf05-77054540f221.png)
