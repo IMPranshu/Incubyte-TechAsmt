@@ -37,9 +37,6 @@ This repository contains the working solution of the problem statement asked. A 
 * The data is reterived and python module - pandas dataframe is used for table manipulation.
 
 ## Sample 
+![Screenshot (158)](https://user-images.githubusercontent.com/43396684/141463886-1f610286-ad24-47ac-974b-eed221654490.png)
 
-
-
-
-The working of data pipeline is demonstarted using tools listed below. Also, a dummy database has been created to demonstarte a simple data flow in different formats from server to the local system, using country-based row filteration.
 
