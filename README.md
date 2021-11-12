@@ -58,6 +58,8 @@ This repository contains the working solution of the problem statement asked. A 
 
 
 
+![Print Output](https://user-images.githubusercontent.com/43396684/141471753-ab97faf5-7aaa-45d0-8905-096059a6a7cd.png)
+![Output files](https://user-images.githubusercontent.com/43396684/141471765-3743c343-d44b-44e5-a59b-3161c12f4cd9.png)
 
 
 
