@@ -2,6 +2,11 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
+* [General Concepts](#general-concepts)
+* [Technologies Used](#technologies-used)
+* [Initial Setup](#initial-setup)
+* [Screenshots](#screenshots)
+
 
 
 
@@ -9,11 +14,26 @@
 ## Introduction
 This repository contains the working solution of the problem statement asked. A data pipeline needs to be constructed for the given assignment and the wroking of it has been explained in detail below.
 
-## Concepts
+## General Concepts
+* DataBases
+* Data Visualization
+* Data Pipelining
+* ETL
+* Python modules like pandas and MySQL Connector
 
-## Technologies
+## Technologies Used
+* Python
+* MySQL Workbech
+* XAMPP Server
+* Vistual Studio Code
+
 
 ## Initial Setup
+* A sample database is created with the schema given in the problem statement docs.
+* Then the nesessary python modules are imported in order for connecting MySQL and Python.
+*  
+
+## Sample 
 
 
 
