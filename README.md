@@ -1,7 +1,7 @@
 # Incubyte-Data Engineer Assesment
 
 ## Table of Contents
-*[Introduction](#introduction)
+* [Introduction](#introduction)
 
 
 
