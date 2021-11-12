@@ -22,7 +22,7 @@ This repository contains the working solution of the problem statement asked. A 
 * Python modules like pandas and MySQL Connector
 
 ## Technologies Used
-* Python
+* [Python](https://docs.python.org/3/)
 * MySQL Workbech
 * XAMPP Server
 * Vistual Studio Code
