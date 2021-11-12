@@ -30,7 +30,7 @@ This repository contains the working solution of the problem statement asked. A 
 
 
 ## Initial Setup
-* [XAMPP](#XAMpp Server) server is setup and run in background.
+* XAMPP server is setup and run in background.
 * A sample database is created as per the schema given in the problem statement docs.
 * Then the nesessary python modules are imported for connecting MySQL and Python.
 * A python script is implemeted in place to connect with the Database.
