@@ -1,13 +1,15 @@
-import pandas as pd
 from load_data import *
-from print_data import *
+from clean_data import *
+from connector import *
 
-# List of Countries
-data = pd.read_csv(
-    "C:/Users/Specter/Desktop/Incubyte/python_code/country-codes.csv")
-country_list = data['Alpha-3 code'].values
+df = pd.read_sql('SELECT country FROM patients', con=hospital_database)
+country_list = list(set(df.values.flatten())) # as 2D numpy array
 
 
 for country in country_list:
-    print_data(country)
-    load_data(country)
+        load_data(country)
+    
+
+
+
+
